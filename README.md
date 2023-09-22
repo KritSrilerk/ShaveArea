@@ -1,70 +1,18 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+Runs the app in the development mode.\ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2023-09-22 121140](https://github.com/KritSrilerk/ShaveArea/assets/144192522/5e11b929-a051-422f-97dc-cb36bb28d661)
+# Circle
+![Screenshot 2023-09-22 121151](https://github.com/KritSrilerk/ShaveArea/assets/144192522/20002123-b1ba-4d16-8629-3305390e9d1a)
+# Example Circle
+![Screenshot 2023-09-22 121233](https://github.com/KritSrilerk/ShaveArea/assets/144192522/100ea3d1-dfbc-4f28-a3db-84959d286b68)
+# Square
+![Screenshot 2023-09-22 121202](https://github.com/KritSrilerk/ShaveArea/assets/144192522/65405331-bd4f-4358-ae90-4ae8379364b5)
+# Example Square
+![Screenshot 2023-09-22 121249](https://github.com/KritSrilerk/ShaveArea/assets/144192522/4b3228ad-8be4-49fc-94ac-d7276686e8c8)
+# Triangle 
+![Screenshot 2023-09-22 121214](https://github.com/KritSrilerk/ShaveArea/assets/144192522/0bc8a7fc-30cb-4990-97c3-accfa5e1d852)
+# Example Triangle
+![Screenshot 2023-09-22 121305](https://github.com/KritSrilerk/ShaveArea/assets/144192522/107365e9-53a5-4930-b7fa-e23c3c22d8a6)
